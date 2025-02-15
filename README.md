@@ -1,4 +1,4 @@
-# Welcome to Duck Pattern Design slides
+# Welcome to Duck Functional Programming slides
 
 To start the slide show:
 
